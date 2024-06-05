@@ -572,6 +572,8 @@ body {
     border-radius: 2.2rem;
     padding: 2rem 2rem 2rem 0.5rem;
     margin: 0 2rem;
+    margin-left: 0;
+    margin-right: 10px;
 }
 
 .header__hover-product-top-link svg {
